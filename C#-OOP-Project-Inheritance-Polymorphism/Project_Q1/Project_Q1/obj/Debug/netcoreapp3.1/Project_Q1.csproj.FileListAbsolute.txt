@@ -1,0 +1,13 @@
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\obj\Debug\netcoreapp3.1\Project_Q1.csprojAssemblyReference.cache
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\obj\Debug\netcoreapp3.1\Project_Q1.AssemblyInfoInputs.cache
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\obj\Debug\netcoreapp3.1\Project_Q1.AssemblyInfo.cs
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\obj\Debug\netcoreapp3.1\Project_Q1.csproj.CoreCompileInputs.cache
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\bin\Debug\netcoreapp3.1\Project_Q1.exe
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\bin\Debug\netcoreapp3.1\Project_Q1.deps.json
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\bin\Debug\netcoreapp3.1\Project_Q1.runtimeconfig.json
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\bin\Debug\netcoreapp3.1\Project_Q1.runtimeconfig.dev.json
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\bin\Debug\netcoreapp3.1\Project_Q1.dll
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\bin\Debug\netcoreapp3.1\Project_Q1.pdb
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\obj\Debug\netcoreapp3.1\Project_Q1.dll
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\obj\Debug\netcoreapp3.1\Project_Q1.pdb
+C:\Users\TAIMOOR\Desktop\CureMD Assignments\Project_Q1\Project_Q1\obj\Debug\netcoreapp3.1\Project_Q1.genruntimeconfig.cache
